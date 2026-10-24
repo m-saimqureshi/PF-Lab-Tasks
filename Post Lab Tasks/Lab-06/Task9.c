@@ -19,7 +19,7 @@ int main (){
 		}
 			
 	}
-
+	
 	printf("\nTotal units consumed  : %d",total );
 	printf("\nMinimum units consumed: %d",minUnits );
 	printf("\nMaximum units consumed: %d",maxUnits );
